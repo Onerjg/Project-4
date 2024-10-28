@@ -34,3 +34,6 @@ streamlit run app.py
 - Streamlit
 - Pandas
 - Plotly Express
+
+## Access URL
+https://project-4-1-bnho.onrender.com
